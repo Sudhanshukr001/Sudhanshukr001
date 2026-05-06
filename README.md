@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Sudhanshu Kumar</h1>
-<h3>🚀 Software Developer &nbsp;|&nbsp; ☁️ Cloud & Security Enthusiast &nbsp;|&nbsp; B.Tech CSE '26</h3>
+<h3>🚀 Software Developer &nbsp;|&nbsp; B.Tech CSE '26</h3>
 
 <br/>
 
