@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3A5C,100:2E6DA4&height=200&section=header&text=Sudhanshu%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Cloud%20%26%20Security%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+<h1>👋 Hi, I'm Sudhanshu Kumar</h1>
+<h3>🚀 Software Developer &nbsp;|&nbsp; ☁️ Cloud & Security Enthusiast &nbsp;|&nbsp; B.Tech CSE '26</h3>
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/sudhanshu-kumar011/">
@@ -14,6 +17,10 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Sudhanshukr001&label=Profile+Views&color=2E6DA4&style=for-the-badge" />
 </p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E6DA4&center=true&vCenter=true&width=650&lines=Backend+%26+Cloud+Engineer;AWS+%7C+Azure+AI-102+Certified;MERN+Stack+Developer;Daily+DSA+Practitioner+%F0%9F%92%AA;Building+Secure+%26+Scalable+Systems+%F0%9F%94%90" alt="Typing SVG" />
 
 </div>
 
@@ -99,12 +106,14 @@ Email     : sudhanshuke7852@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhanshukr001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshukr001&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshukr001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sudhanshukr001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshukr001&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshukr001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
+
 </div>
 
 ---
@@ -118,7 +127,7 @@ Email     : sudhanshuke7852@gmail.com
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6DA4,100:1A3A5C&height=100&section=footer" width="100%" />
-
+  <b>⭐ If you find my work useful, consider giving a star to my repositories! ⭐</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20India-orange?style=for-the-badge" />
 </div>
