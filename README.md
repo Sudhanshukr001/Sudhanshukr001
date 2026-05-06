@@ -19,7 +19,7 @@
 
 - 🎓 3rd-year B.Tech **Computer Science & Engineering** student at **Tula's Institute, UTU Dehradun**
 - ☁️ **Microsoft Azure AI-102 Certified** — passionate about cloud-native and secure systems
-- 💡 Strong foundation in **Java, C++, MERN Stack, DSA**, and **AWS/Azure** cloud services
+- 💡 Strong foundation in **Java, C++, MERN Stack, DSA**
 - 🔐 Deep interest in **backend engineering**, **cloud security**, and **scalable distributed systems**
 - 📈 Consistent **daily DSA practice** on LeetCode — focused on placement and product company interviews
 - 📬 Reach me at **sudhanshuke7852@gmail.com**
@@ -74,10 +74,9 @@
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| Azure AI Engineer Associate (AI-102) | Microsoft | 2024 |
-| AWS Cloud Practitioner Essentials | Amazon Web Services | 2024 |
-| Data Structures & Algorithms Self-Paced | GeeksforGeeks | 2023 |
-| Full-Stack Web Development Bootcamp | Udemy | 2023 |
+| Azure AI Engineer Associate (AI-102) | Microsoft | 2025 |
+| Data Structures & Algorithms| GeeksforGeeks |leetcode| 2024 |
+| Full-Stack Web Development| 2023 |
 
 ---
 
