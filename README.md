@@ -2,291 +2,213 @@
 
 # Hi, I'm Sudhanshu Kumar 👋
 
-### Software Engineer • Backend & Cloud • B.Tech CSE '26
+### Software Engineer · Backend · Cloud · Distributed Systems
 
-<p>
-  I build reliable backend systems, cloud-native applications, and full-stack products<br/>
-  with a focus on <b>scalability, security, clean architecture, and performance.</b>
-</p>
+B.Tech Computer Science & Engineering '26
+Building reliable, secure, and scalable software systems.
 
-<p>
-  <a href="https://www.linkedin.com/in/sudhanshu-kumar011/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sudhanshuke7852@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Sudhanshukr001">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sudhanshukr001&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/sudhanshu-kumar011/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sudhanshu_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sudhanshuke7852@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Sudhanshukr001">
+  <img src="https://img.shields.io/badge/GitHub-Sudhanshukr001-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+%26+Cloud+Engineer;Building+Scalable+%26+Secure+Systems;AWS+%7C+Azure+%7C+Docker+%7C+Linux;MERN+%2B+Spring+Boot+Developer;DSA+%7C+Distributed+Systems+%7C+Cloud+Security"
-alt="Typing SVG"
-/>
+<img src="https://komarev.com/ghpvc/?username=Sudhanshukr001&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+%26+Cloud+Engineer;Designing+Scalable+%26+Reliable+Systems;Java+%7C+Spring+Boot+%7C+Node.js+%7C+AWS;Exploring+Distributed+Systems+%26+System+Design;Solving+DSA+Problems+Every+Day" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## About Me
+
+I'm a **Computer Science & Engineering undergraduate** interested in building software that remains reliable beyond the demo.
+
+My primary interests are **backend engineering, cloud infrastructure, distributed systems, system design, databases, and security**. I enjoy understanding how systems behave under load, how data moves through them, and how engineering decisions affect reliability and scalability.
+
+Alongside development, I regularly practice **Data Structures & Algorithms** and strengthen my foundations in **DBMS, Operating Systems, Computer Networks, and Object-Oriented Programming**.
 
 ```yaml
 name: Sudhanshu Kumar
 role: Software Developer
-education: B.Tech — Computer Science & Engineering
+education: B.Tech Computer Science & Engineering
 graduation: 2026
-college: Tula's Institute, Uttarakhand Technical University
-location: Dehradun, Uttarakhand, India
+university: Uttarakhand Technical University
 
 focus:
   - Backend Engineering
-  - Cloud Computing
   - Distributed Systems
+  - Cloud Architecture
+  - System Design
+  - Database Engineering
   - Cloud Security
-  - Data Structures & Algorithms
 
 currently:
-  - Building scalable backend and full-stack systems
-  - Practicing DSA and problem solving
-  - Exploring distributed systems and system design
-  - Strengthening cloud and DevOps fundamentals
-
-certification:
-  - Microsoft Azure AI Engineer Associate (AI-102)
+  - Building production-oriented software projects
+  - Practicing Data Structures & Algorithms
+  - Studying scalable system architecture
+  - Exploring distributed systems
 ```
-
-I enjoy engineering systems beyond the UI — designing APIs, structuring databases, handling authentication and authorization, thinking about failure cases, and understanding how applications behave as they scale.
-
-My current focus is on strengthening **backend engineering, system design, cloud infrastructure, distributed systems, security, and problem-solving fundamentals**.
-
----
-
-## 🚀 Engineering Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-
-* REST API design
-* Authentication & authorization
-* Database design
-* Server-side architecture
-* Error handling & validation
-* Performance-oriented development
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Infrastructure
-
-* AWS cloud services
-* Microsoft Azure
-* Dockerized applications
-* Linux environments
-* IAM & access control
-* Deployment fundamentals
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Computer Science
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* System Design fundamentals
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Areas of Interest
-
-* Distributed Systems
-* Cloud Security
-* Scalable Architectures
-* Backend Infrastructure
-* System Reliability
-* Performance Engineering
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript&theme=dark" alt="Programming Languages"/>
-
-<br/><br/>
-
-### Backend & Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring&theme=dark" alt="Backend Technologies"/>
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" alt="Frontend Technologies"/>
-
-<br/><br/>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Databases"/>
-
-<br/><br/>
-
-### Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github,vscode&theme=dark" alt="Cloud and DevOps Tools"/>
-
-</div>
-
----
-
-## ☁️ Cloud Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Amazon Web Services
-
-`EC2` • `S3` • `Lambda` • `IAM` • `VPC` • `CloudWatch`
-
-Experience working with core AWS services for compute, storage, serverless workloads, access management, networking, and monitoring.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Microsoft Azure
-
-`Azure AI` • `Cloud Services` • `AI-102`
-
-Microsoft Certified **Azure AI Engineer Associate**, with experience working with Azure AI technologies and cloud concepts.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Problem Solving & DSA
-
-I practice Data Structures and Algorithms consistently, focusing on building strong problem-solving fundamentals rather than only memorizing patterns.
-
-**Core topics:**
-
-`Arrays` • `Strings` • `Hashing` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Graphs` • `Recursion` • `Backtracking` • `Binary Search` • `Sliding Window` • `Greedy` • `Dynamic Programming`
-
----
-
-## 🏅 Certifications & Learning
-
-| Certification / Program                          | Organization             | Year |
-| :----------------------------------------------- | :----------------------- | :--: |
-| 🏆 **Azure AI Engineer Associate (AI-102)**      | Microsoft                | 2025 |
-| 📚 **Data Structures & Algorithms — Self Paced** | GeeksforGeeks + LeetCode | 2024 |
-| 💻 **Full-Stack Web Development Bootcamp**       | Udemy                    | 2023 |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Sudhanshukr001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-alt="Sudhanshu's GitHub Stats"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshukr001&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-alt="Most Used Languages"
-/>
 
 <br/>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshukr001&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshukr001&theme=github-compact&hide_border=true&area=true"
-width="96%"
-alt="Contribution Activity Graph"
-/>
-
-</div>
-
----
-
-## 🎯 Current Goals
+## Engineering Interests
 
 ```text
-01. Deepen backend engineering and system design knowledge
-02. Build production-oriented projects with clean architecture
-03. Strengthen DSA and competitive problem-solving skills
-04. Explore distributed systems and scalable infrastructure
-05. Improve cloud, DevOps, security, and deployment knowledge
-06. Contribute to meaningful open-source projects
+Backend Engineering     ████████████████████
+Cloud & Infrastructure  ███████████████████░
+Distributed Systems     ██████████████████░░
+System Design           ██████████████████░░
+Database Engineering    █████████████████░░░
+Cloud Security          ████████████████░░░░
 ```
 
----
+I particularly enjoy working on problems involving **API architecture, authentication, database design, concurrency, caching, reliability, observability, and scalable backend infrastructure**.
 
-## 🤝 Let's Connect
+<br/>
 
-I'm interested in discussing **software engineering, backend systems, cloud computing, open source, system design, and interesting engineering problems**.
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+</p>
+
+`Java` · `C++` · `C` · `Python` · `JavaScript`
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
+
+`Spring Boot` · `Node.js` · `Express.js` · `REST APIs`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+`React` · `HTML5` · `CSS3`
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+`MySQL` · `MongoDB`
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,git,github" />
+</p>
+
+`AWS` · `Azure` · `Docker` · `Linux` · `Git` · `GitHub`
+
+### AWS
+
+`EC2` · `S3` · `Lambda` · `IAM` · `VPC` · `CloudWatch`
+
+### Computer Science
+
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `System Design`
+
+<br/>
+
+## What I'm Currently Exploring
+
+* Designing **scalable backend architectures**
+* Distributed systems and fault-tolerant services
+* Database indexing, transactions, and query optimization
+* Caching and asynchronous processing
+* Authentication and authorization architecture
+* Cloud-native application deployment
+* Observability, monitoring, and system reliability
+* Advanced Data Structures & Algorithms
+
+<br/>
+
+## Certifications
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sudhanshu-kumar011/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sudhanshu_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+| Certification                                             | Issuer                   | Year |
+| --------------------------------------------------------- | ------------------------ | :--: |
+| Microsoft Certified: Azure AI Engineer Associate — AI-102 | Microsoft                | 2025 |
+| Data Structures & Algorithms                              | GeeksforGeeks / LeetCode | 2024 |
+| Full-Stack Web Development Bootcamp                       | Udemy                    | 2023 |
+
+</div>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudhanshukr001&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanshukr001&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshukr001&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanshukr001&theme=github-compact&hide_border=true&area=true" width="98%" />
+
+</div>
+
+<br/>
+
+## Developer Philosophy
+
+> **Build for correctness first, scale deliberately, measure everything, and keep the system understandable.**
+
+I care about more than making something work once. I want to understand **why it works, where it breaks, how it scales, and how it can be made simpler and more reliable**.
+
+<br/>
+
+## Let's Connect
+
+I'm interested in conversations around **software engineering, backend systems, cloud architecture, distributed systems, open source, and ambitious engineering projects**.
+
+<div align="center">
 
 <a href="mailto:sudhanshuke7852@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sudhanshuke7852%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Let's_Talk-Email_Me-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Sudhanshukr001">
-  <img src="https://img.shields.io/badge/GitHub-Sudhanshukr001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://www.linkedin.com/in/sudhanshu-kumar011/">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-### Build. Break. Learn. Improve. Repeat.
+### `Code · Learn · Build · Scale · Repeat`
 
-<sub>⭐ Explore my repositories below — stars and contributions are always appreciated.</sub>
+<sub>Building one system at a time.</sub>
 
 </div>
